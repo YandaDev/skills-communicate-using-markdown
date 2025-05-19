@@ -4,6 +4,5 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-![Image of the Invertocat logo](https://brand.github.com/_next/static/media/logo-04.9a1517f0.png
-)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
